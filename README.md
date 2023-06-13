@@ -42,4 +42,4 @@ Report: https://digital.nhs.uk/data-and-information/publications/statistical/saf
 
 Andrew Gallon
 
-Repo Owner Contact Details: andrew.gallon@nhs.net
+Repo Owner Contact Details: socialcare.statistics@nhs.net
